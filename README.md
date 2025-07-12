@@ -2,7 +2,8 @@
 
 This repository contains a set of beginner-friendly PHP scripts that demonstrate fundamental programming concepts such as loops, conditionals, arrays, and user input. These are standalone CLI-based scripts — great for learning and practicing PHP basics.
 
-📁 Folder Structure
+## 📁 Folder Structure
+
 ```
 php
 ├── array display.php
@@ -22,7 +23,7 @@ php
 └── while loop.php
 ```
 
-## File Descriptions
+## 📄 File Descriptions
 
 - **array display.php**  
   Displays all elements of a predefined array.
