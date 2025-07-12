@@ -1,0 +1,56 @@
+# PHP Programs Collection
+
+This folder contains a collection of simple PHP programs demonstrating basic programming concepts such as loops, conditionals, arrays, and user input. Each file is a standalone script that can be run using the PHP CLI.
+
+## File Descriptions
+
+- **array display.php**  
+  Displays all elements of a predefined array.
+
+- **day.php**  
+  Takes a number (1-7) as input and prints the corresponding day of the week.
+
+- **do while loop.php**  
+  Prints numbers from 1 to 10 using a `do-while` loop.
+
+- **factorial.php**  
+  Calculates the factorial of a user-input number (note: currently calculates factorial of 10 regardless of input).
+
+- **for loop.php**  
+  Prints numbers from 0 to 10 using a `for` loop.
+
+- **largest.php**  
+  Finds the largest among three user-input numbers.
+
+- **largest10(1).php**  
+  Finds the largest number in a predefined array of 10 numbers.
+
+- **largest10(2).php**  
+  Intended to find the largest number from user input (contains a syntax error in `explode()` usage).
+
+- **middle.php**  
+  Finds the middle value among three user-input numbers.
+
+- **odd or even.php**  
+  Checks if a user-input number is odd or even.
+
+- **positive or negative.php**  
+  Checks if a user-input number is positive or negative.
+
+- **prime.php**  
+  Checks if a user-input number is a prime number.
+
+- **sorting number.php**  
+  Sorts and displays a predefined array of numbers.
+
+- **sum.php**  
+  Calculates the sum of two user-input numbers.
+
+- **while loop.php**  
+  Prints numbers from 1 to 10 using a `while` loop.
+
+## How to Run
+
+1. Make sure you have PHP installed on your system.
+2. Open a terminal and navigate to this folder.
+3. Run any script using:
