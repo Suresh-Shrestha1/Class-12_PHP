@@ -1,6 +1,6 @@
 # PHP Programs Collection
 
-This folder contains a collection of simple PHP programs demonstrating basic programming concepts such as loops, conditionals, arrays, and user input. Each file is a standalone script that can be run using the PHP CLI.
+This repository contains a set of beginner-friendly PHP scripts that demonstrate fundamental programming concepts such as loops, conditionals, arrays, and user input. These are standalone CLI-based scripts — great for learning and practicing PHP basics.
 
 ## File Descriptions
 
