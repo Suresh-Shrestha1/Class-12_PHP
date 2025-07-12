@@ -2,6 +2,25 @@
 
 This repository contains a set of beginner-friendly PHP scripts that demonstrate fundamental programming concepts such as loops, conditionals, arrays, and user input. These are standalone CLI-based scripts — great for learning and practicing PHP basics.
 
+📁 Folder Structure
+
+php
+├── array display.php
+├── day.php
+├── do while loop.php
+├── factorial.php
+├── for loop.php
+├── largest.php
+├── largest10(1).php
+├── largest10(2).php
+├── middle.php
+├── odd or even.php
+├── positive or negative.php
+├── prime.php
+├── sorting number.php
+├── sum.php
+└── while loop.php
+
 ## File Descriptions
 
 - **array display.php**  
