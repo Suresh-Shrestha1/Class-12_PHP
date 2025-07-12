@@ -45,7 +45,17 @@ php
 
 
 ## How to Run
+1. ✅ Ensure PHP is installed
+```
+Run php -v to verify installation.
+```
+2. 📂 Navigate to the folder
+```
+cd php-programs
+```
+3. 🏃 Run any script using:
+```
+php "filename.php"
+```
+Replace "filename.php" with the name of the script you want to run.
 
-1. Make sure you have PHP installed on your system.
-2. Open a terminal and navigate to this folder.
-3. Run any script using:
