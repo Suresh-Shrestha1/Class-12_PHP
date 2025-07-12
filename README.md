@@ -25,7 +25,7 @@ php
 
 ## 📄 File Descriptions
 
-|File Name | Description |
+|File Name | 🔍 Description |
 | -------- | ------------|
 |🧾 array display.php | Displays all elements of a predefined array. |
 📆 day.php |	Takes a number (1–7) and prints the corresponding day of the week.
@@ -55,7 +55,19 @@ cd php-programs
 ```
 3. 🏃 Run any script using:
 ```
-php "filename.php"
+'php "filename.php"'
 ```
 Replace "filename.php" with the name of the script you want to run.
 
+## 💡 Notes & Tips
+- 🧑‍💻 Some programs require user input via CLI (standard input).
+- ⚠️ Some scripts may include minor syntax or logic issues, such as:
+    * factorial.php — input ignored, always calculates factorial of 10.
+    * largest10(2).php — incorrect explode() usage causing errors.
+- 📤 All outputs are printed directly to the terminal.
+- 🛠️ These scripts are meant for learning purposes — feel free to improve and extend them.
+  
+## 🧪 Testing & Debugging Tips
+- For scripts needing user input, you can pass data via STDIN or modify the code to use predefined variables during testing.
+- Use 'var_dump()' or 'print_r()' for internal debugging.
+- Use 'php -l filename.php' to quickly lint the script for syntax errors.
